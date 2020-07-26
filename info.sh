@@ -5,8 +5,8 @@ clear
 neofetch
 echo -e ""
 echo -e "##############################################"
-echo -e "#              Janda Baper Group             #"
-echo -e "#               Ipang Nett Nott              #"
-echo -e "#            jandabaper09@gmail.com          #"
+echo -e "#                  Sg Fast 1                 #"
+echo -e "#              Ssh Premium Murah             #"
+echo -e "#               fjrjtn1@gmail.com            #"
 echo -e "##############################################"
 echo -e ""
